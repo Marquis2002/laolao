@@ -31,6 +31,7 @@
     "build:unpkg": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format iife"
   },
   "dependencies": {
+    "axios": "^1.7.2",
     "bufferutil": "^4.0.6",
     "core-js": "^3.20.3",
     "simple-signal-client": "^3.0.0",

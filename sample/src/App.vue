@@ -5,11 +5,13 @@
 
 <script>
   import Demo from './components/Demo.vue'
+  // import Title from "./components/Laolao.vue";
 
 export default {
   name: 'App',
     components: {
         'demo-component': Demo
+        // 'title-component': Title
     }
 }
 </script>

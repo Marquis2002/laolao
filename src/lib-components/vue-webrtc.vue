@@ -39,7 +39,7 @@
             },
             cameraHeight: {
                 type: [Number, String],
-                default: 160
+                default: 480
             },
             autoplay: {
                 type: Boolean,
